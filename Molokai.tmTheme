@@ -4,10 +4,11 @@
 <!-- ============================================ -->
 <!-- app:  http://tmtheme-editor.herokuapp.com    -->
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
+<!-- additional by-hand edits: https://github.com/Voaxeyr/ -->
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Molokai ST3</string>
+	<string>Molokai Legacy</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -761,7 +762,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_dark</string>
+	<string>theme.dark.molokai_legacy</string>
 	<key>author</key>
 	<string>Voaxeyr</string>
 	<key>comment</key>
