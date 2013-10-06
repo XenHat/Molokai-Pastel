@@ -34,7 +34,6 @@
 				<string>#555555</string>
 				<key>minimapViewport</key>
 				<string>#AAAAAA</string>
-
 			</dict>
 		</dict>
 		<dict>
@@ -45,7 +44,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#404954</string>
+				<string>#7e8e91</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +77,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF80F4</string>
+				<string>#ae81ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +136,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#fd971f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -150,7 +149,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#a6e22e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -176,7 +175,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -189,7 +188,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#fd971f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -754,6 +753,83 @@
 			<dict>
 				<key>background</key>
 				<string>#FF0000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unmatched</string>
+			<key>scope</key>
+			<string>brackethighlighter.unmatched</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Curly</string>
+			<key>scope</key>
+			<string>brackethighlighter.curly</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a6e21a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Round</string>
+			<key>scope</key>
+			<string>brackethighlighter.round</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c0c0c0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Square</string>
+			<key>scope</key>
+			<string>brackethighlighter.square</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a6e21a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Angle</string>
+			<key>scope</key>
+			<string>brackethighlighter.angle</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a6e21a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Tag</string>
+			<key>scope</key>
+			<string>brackethighlighter.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Single Quote | Double Quote | Regex</string>
+			<key>scope</key>
+			<string>brackethighlighter.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffee99</string>
 			</dict>
 		</dict>
 	</array>
