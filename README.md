@@ -4,9 +4,7 @@
 
 ##### Short version:
 
-An attempt at recreating the [Molokai][4] vim theme for Sublime Text.
-
-This is an attempt at recreating the Molokai vim theme for Text Mate/Sublime Text and also making my own twist to it.
+This is an attempt at recreating the [Molokai][4] vim theme for Text Mate/Sublime Text and also making my own twist to it.
 (The _Pastel_ part is currently delayed until I finish the base rebuild.)
 
 #### Long version:
