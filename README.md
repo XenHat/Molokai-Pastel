@@ -17,7 +17,7 @@ Someone (more like [Hamish Macpherson][5]) made a modification of it, but as far
 it wasn't released to the public. However, based on his screenshots, [Tomas Restrepo][6] ported it
 to the vim text editor.
 
-When I told [someone I know][6] I was looking for a color scheme, he mentionned "Molokai".
+When I told [someone I know][6] I was looking for a color scheme, he mentioned "Molokai".
 I liked the theme and I wanted to use it daily. Since I could not find a Sublime Text version of it,
 I decided to attempt to rebuild it.
 
