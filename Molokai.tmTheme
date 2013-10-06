@@ -763,7 +763,7 @@
 	<key>semanticClass</key>
 	<string>theme.dark.monokai_dark</string>
 	<key>author</key>
-	<string>Tarnix</string>
+	<string>Voaxeyr</string>
 	<key>comment</key>
 	<string>Based on Monokai Dark and the Molokai Vim port</string>
 </dict>
