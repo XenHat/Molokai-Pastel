@@ -32,8 +32,6 @@
 				<string>#bcbcbc</string>
 				<key>minimapBorder</key>
 				<string>#555555</string>
-				<key>minimapViewport</key>
-				<string>#AAAAAA</string>
 			</dict>
 		</dict>
 		<dict>
