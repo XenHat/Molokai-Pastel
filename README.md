@@ -19,9 +19,9 @@ When I told [someone I know][7] I was looking for a color scheme, he mentioned "
 I liked the scheme and I wanted to use it daily. Since I could not find a Sublime Text version of it,
 I decided to attempt to rebuild it and provide the results to the Sublime Text Community.
 
-__Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][9].
+__Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
-[![Preview][100]][5]
+[![Preview][100]][99]
 
 [1]: http://macromates.com/
 [2]: http://www.sublimetext.com/2
@@ -30,6 +30,6 @@ __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][9].
 [5]: http://blog.hamstu.com/
 [6]: http://winterdom.com/2008/08/molokaiforvim
 [7]: https://github.com/LightDrake
-[8]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
-[9]: http://sublimetext.com/3
+[8]: http://sublimetext.com/3
+[99]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
 [100]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.png
