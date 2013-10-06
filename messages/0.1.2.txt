@@ -1,0 +1,24 @@
+#  Thank you for using Molokai-Pastel!  #
+
+This is Molokai-Pastel v0.1.2!
+
+Molokai-Legacy is currently the only scheme.
+Once it becomes more mature, Pastel will follow. :)
+
+
+Changelog:
+
+### 0.1.2
+Legacy:	Actual molokai colors. Needs more testing, but usable.	
+Bugs/complaints: => https://github.com/Voaxeyr/Molokai-Pastel/issues
+
+Pastel: Waiting for Monokai-Legacy to be polished.
+
+### 0.1.1
+learning this thing, looks like something
+
+### 0.1.0
+Birth.
+The plan is: Two color schemes;
+	* Molokai-Legacy: The vim Molokai theme. Minor edits to support more highlighting since Sublime can do it.
+	* Molokai-Pastel: A more "PastelColor" version of molokai.
