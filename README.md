@@ -21,7 +21,7 @@ I decided to attempt to rebuild it and provide the results to the Sublime Text C
 
 __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
-[![Preview][100]][99]
+[![Preview][99]][100]
 
 [1]: http://macromates.com/
 [2]: http://www.sublimetext.com/2
