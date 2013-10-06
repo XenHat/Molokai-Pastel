@@ -28,7 +28,7 @@ __Note__: this theme was only tested in [Sublime Text 2][2].
 [3]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 [4]: https://github.com/tomasr/molokai
 [5]: http://blog.hamstu.com/
-[6]: winterdom.com/2008/08/molokaiforvim
+[6]: http://winterdom.com/2008/08/molokaiforvim
 [7]:https://github.com/LightDrake
 [8]:https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
 [100]:https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.png
