@@ -23,9 +23,13 @@ I decided to attempt to rebuild it.
 
 __Note__: this theme was only tested in [Sublime Text 2][2].
 
+[![Preview][100]][5]
+
 [1]: http://macromates.com/
 [2]: http://www.sublimetext.com/2
 [3]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 [4]: https://github.com/tomasr/molokai
 [5]: http://blog.hamstu.com/
 [6]: https://github.com/LightDrake
+[7]:https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
+[100]:https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.png
