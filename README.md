@@ -1,6 +1,6 @@
 ### Molokai-Pastel
 ===================
-#### What is Molokai-Pastel about and why should I want it?
+#### What is Molokai-Pastel and why should I want it?
 
 ##### Short version:
 
