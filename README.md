@@ -1,20 +1,15 @@
-st3-Molokai-rebuild
+Molokai-Pastel
 ===================
-
-Porting back the "Molokai" color scheme into Sublime Text
-
-### Molokai Plus
-
-An attempt at recreating the Molokai vim theme for Sublime Text.
- color scheme __HEAVILY__ based on [Molokai][4], a modification of the  scheme by .
-
 ## What is Molokai-Pastel about and why should I want it?
 
-# Short version:
-The Molokai vim theme ported (back) to Text Mate/Sublime Text and a "pastel" variant of it.
-  (Pastel is currently being worked on)
+### Short version:
 
-# Long version:
+An attempt at recreating the [Molokai][4] vim theme for Sublime Text.
+
+This is an attempt at recreating the Molokai vim theme for Text Mate/Sublime Text and also making my own twist to it.
+(The _Pastel_ part is currently delayed until I finish the base rebuild.)
+
+### Long version:
 
 This might get confusing a bit, but try to follow me here:
 [TextMate][1] _(and by extension, [Sublime Text][2])_ has a color scheme called [Monokai][3]. 
@@ -26,7 +21,7 @@ When I told [someone I know][6] I was looking for a color scheme, he mentionned 
 I liked the theme and I wanted to use it daily. Since I could not find a Sublime Text version of it,
 I decided to attempt to rebuild it.
 
-___Note__: this theme was only tested in [Sublime Text 2][2].
+__Note__: this theme was only tested in [Sublime Text 2][2].
 
 [1]: http://macromates.com/
 [2]: http://www.sublimetext.com/2
