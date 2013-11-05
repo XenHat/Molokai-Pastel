@@ -456,10 +456,8 @@
 			<string>meta.diff, meta.diff.header</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#E0EDDD</string>
+				<string>#877c97</string>
 			</dict>
 		</dict>
 		<dict>
@@ -469,8 +467,6 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#D3201F</string>
 			</dict>
