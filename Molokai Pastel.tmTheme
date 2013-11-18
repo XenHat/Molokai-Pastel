@@ -8,7 +8,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Molokai Legacy</string>
+	<string>Molokai Pastel</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -830,14 +830,14 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
+	<string>fbcafa41-51a2-4b27-982c-6375a07f612e</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.molokai_legacy</string>
+	<string>theme.dark.molokai_pastel</string>
 	<key>author</key>
 	<string>Voaxeyr</string>
 	<key>comment</key>
-	<string>Based on Monokai Dark and the Molokai Vim port</string>
+	<string>Pastel variation on the Molokai scheme</string>
 </dict>
 </plist>
