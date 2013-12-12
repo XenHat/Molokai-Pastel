@@ -953,7 +953,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C4E2F2</string>
+				<string>#EDEF7D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -999,7 +999,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDEF7D</string>
+				<string>#C4E2F2</string>
 			</dict>
 		</dict>
 		<dict>
