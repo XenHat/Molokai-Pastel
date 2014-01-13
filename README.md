@@ -24,6 +24,7 @@ __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
 Molokai-Pastel (main work, more love was given)
 [![Preview][97]][98]
+
 Molokai (direct port, more or less)
 [![Preview][99]][100]
 
