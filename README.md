@@ -21,6 +21,10 @@ I decided to attempt to rebuild it and provide the results to the Sublime Text C
 
 __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
+
+Molokai-Pastel (main work, more love was given)
+[![Preview][97]][98]
+Molokai (direct port, more or less)
 [![Preview][99]][100]
 
 [1]: http://macromates.com/
@@ -31,5 +35,7 @@ __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 [6]: http://winterdom.com/2008/08/molokaiforvim
 [7]: https://github.com/LightDrake
 [8]: http://sublimetext.com/3
+[97]: https://raw2.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.thumb.png
+[98]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.png
 [99]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
 [100]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.png
