@@ -1,0 +1,9 @@
+Molokai-Pastel 1.0.4 changelog
+==============
+
+CHANGES/FIXES
+-------------
+- version bump, mainly to test package control messages.
+- minor color tweaks.
+- removed extra space in theme file
+- moved to more streamlined package control messages
