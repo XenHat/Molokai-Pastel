@@ -17,7 +17,7 @@
 				<key>activeGuide</key>
 				<string>#73797b60</string>
 				<key>background</key>
-				<string>#131617</string>
+				<string>#1b1f20</string>
 				<key>caret</key>
 				<string>#f9c6a4</string>
 				<key>findHighlight</key>
@@ -27,7 +27,7 @@
 				<key>guide</key>
 				<string>#73797b30</string>
 				<key>gutterForeground</key>
-				<string>#5c5854</string>
+				<string>#555</string>
 				<key>invisibles</key>
 				<string>#3b3a32</string>
 				<key>lineHighlight</key>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#455052</string>
+				<string>#505d5f</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
