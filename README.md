@@ -22,7 +22,7 @@ This might get confusing a bit, but try to follow me here:
 [TextMate][1] _(and by extension, [Sublime Text][2])_ has a color scheme called [Monokai][3], created by Wimer Hazenberg.
 
 [Hamish Macpherson][5] made a modification of it, but wasn't released to the public.
-However, based on his screenshots, [Tomas Restrepo][6] ported it
+However, based on his screenshots, [Tomas Restrepo][6] [ported it][9]
 to the **vim** text editor.
 
 [A colleague][7] made me discover Molokai in 2013 and I wanted to try it. Unfortunately, there was no Molokai (at least not under that name) for Sublime Text.
@@ -48,6 +48,7 @@ Molokai (direct port, more or less)
 [6]: http://winterdom.com/2008/08/molokaiforvim
 [7]: https://github.com/LightDrake
 [8]: http://sublimetext.com/3
+[9]: https://github.com/tomasr/molokai
 [97]: https://raw2.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.thumb.png
 [98]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.png
 [99]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
