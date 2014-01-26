@@ -1,0 +1,6 @@
+Molokai-Pastel 1.0.5.2 changelog
+==============
+
+CHANGES/FIXES
+-------------
+- removed italic in comments since it breaks ascii art
