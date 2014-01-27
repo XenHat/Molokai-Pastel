@@ -37,6 +37,7 @@ __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 You can tell package control to download Molokai-Pastel directly from this repo instead of waiting for releases, if you desire so.
 To do that, follow [this method][10].
 
+###Preview pictures (not always 100% up to date)
 
 Molokai-Pastel (main work, more love was given)
 
