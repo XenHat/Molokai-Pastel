@@ -32,7 +32,7 @@ I decided to rebuild it for my personal use and I ended up providing the results
 __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
 
-### Bleeding edge?
+###Bleeding edge?
 
 You can tell package control to download Molokai-Pastel directly from this repo instead of waiting for releases, if you desire so.
 To do that, follow [this method][10].
