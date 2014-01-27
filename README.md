@@ -32,6 +32,12 @@ I decided to rebuild it for my personal use and I ended up providing the results
 __Note__: This theme was tested in [Sublime Text 2][2] and [Sublime Text 3][8].
 
 
+### Bleeding edge?
+
+You can tell package control to download Molokai-Pastel directly from this repo instead of waiting for releases, if you desire so.
+To do that, follow [this method][10].
+
+
 Molokai-Pastel (main work, more love was given)
 
 [![Preview][97]][98]
@@ -49,6 +55,7 @@ Molokai (direct port, more or less)
 [7]: https://github.com/LightDrake
 [8]: http://sublimetext.com/3
 [9]: https://github.com/tomasr/molokai
+[10]: http://www.macdrifter.com/2012/08/install-sublime-packages-from-github.html
 [97]: https://raw2.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.thumb.png
 [98]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_Pastel.png
 [99]: https://raw.github.com/Voaxeyr/Molokai-Pastel/master/preview/Molokai_legacy.thumb.png
