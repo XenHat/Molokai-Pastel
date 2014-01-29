@@ -1,0 +1,5 @@
+Molokai-Pastel 1.0.7
+
+CHANGES/FIXES
+-------------
+- Added hybrid theme "Molokai Plus" to have new highlighting with more legacy colors
