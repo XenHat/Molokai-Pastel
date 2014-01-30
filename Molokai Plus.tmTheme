@@ -1020,7 +1020,6 @@
 			<string>sublimelinter.outline.illegal</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
 				<key>foreground</key>
 				<string>#9f4a4a</string>
 			</dict>
@@ -1032,7 +1031,6 @@
 			<string>sublimelinter.underline.illegal</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
 				<key>foreground</key>
 				<string>#d84b4b</string>
 				<key>fontStyle</key>
@@ -1046,7 +1044,6 @@
 			<string>sublimelinter.outline.warning</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
 				<key>foreground</key>
 				<string>#f5cd2e</string>
 			</dict>
@@ -1058,7 +1055,6 @@
 			<string>sublimelinter.underline.warning</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
 				<key>foreground</key>
 				<string>#f5cd2e</string>
 			</dict>
