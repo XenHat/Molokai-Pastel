@@ -437,7 +437,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#1b1b1b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1010,7 +1010,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#e34646</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1021,7 +1021,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<key>foreground</key>
+				<string>#9f4a4a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1032,7 +1033,10 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<key>foreground</key>
+				<string>#d84b4b</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1043,7 +1047,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<key>foreground</key>
+				<string>#f5cd2e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1054,7 +1059,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<key>foreground</key>
+				<string>#f5cd2e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1065,7 +1071,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#e82020</string>
+				<key>foreground</key>
 			</dict>
 		</dict>
 		<dict>
@@ -1076,7 +1083,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#e82020</string>
 			</dict>
 		</dict>
 		<dict>
