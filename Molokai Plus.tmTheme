@@ -4,7 +4,6 @@
 <!-- ============================================ -->
 <!-- app:  http://tmtheme-editor.herokuapp.com    -->
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
-<!-- additional by-hand edits: https://github.com/Voaxeyr/ -->
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -953,7 +952,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#94fef3</string>
+				<string>#f17563</string>
 			</dict>
 		</dict>
 		<dict>
