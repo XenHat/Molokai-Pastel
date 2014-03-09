@@ -1,0 +1,13 @@
+Molokai-Pastel last update
+
+- Fixed some issues regarding color clashing and general visual comfort.
+
+IMPORTANT NOTICE READ ME RAWRG!
+---------------------
+
+This is the last update for Molokai-Pastel.
+My conscience doesn't agree with me "feeding off" the "molokai" brand.
+
+Current work has migrated to:
+
+https://github.com/Ociidii-Works/Pastel-Paws

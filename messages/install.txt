@@ -2,19 +2,7 @@
 Molokai-Pastel
 ==============
 
-This is an attempt at providing the Sublime Text users the popular Molokai vim theme and also making my own twist to it.
+WARNING: this color scheme stopped active development.
+the continuation of this work is located here:
 
-Features:
----------
-* at the time of writing, supports more syntax and plugins than other Molokai ports
-  (Only for Molokai-Pastel.tmTheme)
-* Desaturated colors based on the Molokai scheme for a less aggressive color contrast
-
-Notes:
-------
-* Molokai.tmTheme is provided as a reference only, and is not
-  actively maintained nor including all features.
-
-For the full README and for further information, the repository is located at:
-
-https://github.com/Voaxeyr/Molokai-Pastel
+https://github.com/Ociidii-Works/Pastel-Paws
